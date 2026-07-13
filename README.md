@@ -1,7 +1,7 @@
-# RAG_Workshop_Assignment
+# RAG
 “Retrieval-Augmented Generation project on Machine Learning PDFs.”
 
-# 🎓 RAG Workshop Assignment – Chandana R
+# 🎓 RAG Work– Chandana R
 
 ## 🧠 Objective
 To build a Retrieval-Augmented Generation (RAG) system capable of answering questions about Machine Learning using uploaded PDF research materials.
